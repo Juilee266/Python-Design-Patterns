@@ -1,4 +1,4 @@
-# Python-Design-Patterns
+# Singleton Pattern
 
 There are 5 ways we can implement Singleton pattern in python - 
 1. Decorators
