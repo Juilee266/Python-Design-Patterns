@@ -39,7 +39,8 @@ class EnglishTranslator(Translator):
     def translate(self, text):
         return text
 
-def create_translator(lang): # Factory method
+# Factory method
+def create_translator(lang):
     if lang == Language.ENGLISH:
         return EnglishTranslator()
     if lang == Language.GERMAN:
