@@ -4,7 +4,7 @@ It allows two incompatible interfaces to work together without modifying the int
 
 ![Adapter design pattern](adapter_pattern.webp?raw=true "Title")
 
-##Object Adapter
+## Object Adapter
 Object Adapter takes on the interface of one object while wrapping the behavior of another.
 
 ## Class Adapter
